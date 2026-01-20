@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on learning. <br>🤝 I’m looking for help with finance.<br>🌱 I’m currently learning Mechanical Engineering. <br>💬 Ask me about cars.<br>⚡ Fun fact: All is Well
+🔭 I’m currently working on learning. <br>🤝 I’m looking for help with finance.<br>🌱 I’m currently learning Mechanical Engineering. <br>💬 Ask me about cars.<br>⚡ Fun fact: Engineers spend more time preventing failure than designing success, and that’s what makes systems reliable.
 
 
 ## 🌐 Socials:
