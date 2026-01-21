@@ -1,3 +1,6 @@
+![](https://github.com/dcua-bot/Elective-Laboratories/blob/main/Laboratory%202/Branding/Banner/Banner.png)
+
+
 # 💫 About Me:
 🔭 I’m currently working on learning. <br>🤝 I’m looking for help with finance.<br>🌱 I’m currently learning Mechanical Engineering. <br>💬 Ask me about cars.<br>⚡ Fun fact: Engineers spend more time preventing failure than designing success, and that’s what makes systems reliable.
 
