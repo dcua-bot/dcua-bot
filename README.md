@@ -1,4 +1,4 @@
-![](https://github.com/dcua-bot/Elective-Laboratories/blob/main/Laboratory%202/Branding/Banner/Banner.png)
+![](https://github.com/dcua-bot/Elective-Laboratories/blob/main/Laboratory%202/Branding/Header/header.png)
 
 
 # 💫 About Me:
