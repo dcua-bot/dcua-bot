@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on learning. <br>🤝 I’m looking for help with finance.<br>🌱 I’m currently learning Mechanical Engineering. <br>💬 Ask me about cars.<br>⚡ Fun fact: Engineers spend more time preventing failure than designing success, and that’s what makes systems reliable.
+🔭 Currently focused on continuous learning and skill development. <br>🤝 Open to guidance and opportunities in personal finance and growth.<br>🌱 Mechanical Engineering student with an interest in real-world applications. <br>💬 Ask me about cars, engineering systems, and how things work.<br>⚡ Fun fact: Engineers spend more time preventing failure than designing success, and that’s what makes systems reliable.
 
 
 ## 🌐 Socials:
